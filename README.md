@@ -1,4 +1,6 @@
 # covidvariants
+[![DOI](https://zenodo.org/badge/377944722.svg)](https://zenodo.org/badge/latestdoi/377944722)
+
 This repository contains data and code that support
 Miller, K., K. Elenberg, and A. Dubrawski. "Forecasting emergence of COVID-19 variants of concern." PLOS ONE [under review].
 
